@@ -1,5 +1,3 @@
-# Yelp-Reviews-Natural-Language-Processing-
-
 In this NLP project I attempt to classify Yelp Reviews into 1 or 5 star categories based on the text content in the reviews.   
 
 The dataset is provided in csv format with 10 000 entries.  The complete dataset can be downloaded from Kaggle: [Yelp Review Data Set from Kaggle](https://www.kaggle.com/c/yelp-recsys-2013).  Each observation in this dataset is a review of a particular business by a particular user.  
